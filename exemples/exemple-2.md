@@ -28,16 +28,12 @@ Une énumération de points :
 
 Voilà un tableau de résultats :
 
-Année | CA | TVA | TTC
-| :---: | ---: | :---: | ---: |
+  Année | CA    | TVA   | TTC
+| :---: | :---: | :---: | :---: |
 2010 | 3 200 | 19,6 % | 3 827,20
 2011 | 6 500 | 19,6 % | 7 774,00
 2012 | 14 500 | 20,6 % | 17 487,00
 
-| Header | Header | Right  |
-| :----: | :----: | :----: |
-|  Cell  |  Cell  |   $10  |
-|  Cell  |  Cell  |   $20  |
 
 Commande de logiciel :
 
