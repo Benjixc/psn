@@ -7,6 +7,7 @@ Une liste de points à aborder :
 * premier point
    - premier sous point
    - second sous point
+
 * deuxième point
 
 Une url vers un site http://www.audela.org ou encore [Nom_du_lien](http://google.fr).
@@ -22,8 +23,8 @@ Texte...
 
 Une énumération de points :
 
-* 1 premier point
-* 2 deuxième point
+1. premier point
+2. deuxième point
 
 Commande de logiciel :
 
