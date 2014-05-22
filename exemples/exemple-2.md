@@ -2,7 +2,7 @@
 
 Texte... et un mot **important** à mon sens.
 
-Une liste de points à aborder :
+Une liste de points à aborder (bien respecter l'indentation) :
 
 * premier point
     - premier sous point
