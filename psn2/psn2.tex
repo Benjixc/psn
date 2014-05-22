@@ -1,0 +1,121 @@
+\documentclass[a4paper,twocolumn]{article}
+
+\input{../style_psn}
+
+
+%***************************** TITRE ****************************************************%
+\begin{document}
+\pagestyle{fancy}
+%\fontfamily{sffamily}
+%\selectfont
+
+
+\psntitre{1}
+
+
+\iffalse
+   \begin{figure}[!ht]
+     \centering
+     \includegraphics[width=8.7cm,angle=-0]{midas_audela_gaussien.eps}
+     \caption{Filtrage \gau de largeur 2 pixels sur la raie \ha, comparatif entre SpcAudace en vert et Midas en rouge.}
+     \label{midas_audela_gauss}
+   \end{figure}
+\fi
+
+\linenumbers
+
+%****************************** CONTENU ***************************************************%
+\sffamily{
+
+%---------------------------------------------------------------------------------%
+\section{\sffamily Édito}
+%\secn{Édito}
+\autor{Benjamin}{Mauclaire}
+%\lipsum
+
+Voici votre premier numéro de la ``newsletter pulsante'' tout chaud sorti du four. Cet organe de communication contient toutes les informations pour apprendre et agir autour des étoiles pulsantes et notamment l'étoile \rrlyr sujet d'actualité.
+
+Seront abordés des domaines comme l'astrophysique, les techniques d'observation et de réduction, les observations, etc.. Ce premier opus fait la part belle à ce début de campagne \rrlyr 2014.
+
+\medskip
+
+Elle est à nous tous, et nous pouvons, j'allais dire devons tous y participer puisque c'est notre bulletin. Notre vocation est de favoriser l'accès au savoir pour tous. Le rythme de parution est autant que faire se peut tous les 15 jours, mais pourra être plus ou moins fréquent selon l'actualité. L'objectif est justement de garder la flamme allumée et de la propager.
+
+Plus précisément, le contenu c'est : de la théorie, de la pratique, des compte-rendus d'observation en spectroscopie, en photométrie, les campagnes en cours\dots Bref tous ce qui peut avoir de près ou de loin un rapport avec les étoiles pulsantes.
+
+\medskip
+
+Cette newsletter comprendra les quatres rubriques suivantes (mais nous pourrons en rajouter) :
+
+\begin{itemize}
+\item 1 article de fond en épisodes (ie. sur plusieurs numéros) ;
+
+%\item 1 article pratique en épisodes. ( ie:sur plusieurs numero ) ;
+
+\item les dernières observations ;
+
+\item les éphémérides ;
+
+\item tips and trics astro-pratique pour aider à se lancer.
+\end{itemize}
+
+\medskip
+
+Pour l'envoi des articles, merci de contacter Benji : 
+
+\begin{center}\url{bma.ova@gmail.com}\end{center}
+
+Merci d'avance à ceux qui participeront.
+
+Nous gardons le contact quotidien grace à la mailing-list GRRR. Pour s'incrire, c'est ici :
+
+\url{https://fr.groups.yahoo.com/neo/groups/Groupe_RR_Lyrae/info}
+
+\medskip
+
+%\enlargethispage*{1cm}
+
+Bonne lecture ! 
+
+%---------------------------------------------------------------------------------%
+% Article de fond :
+\articleinc{Les apports de la photométrie sur \rrlyr}{Thibault}{de France}{fond}
+
+
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
+% Article ephemerides :
+\articleinc{Quand observer \rrlyr ?}{Daniel}{Verilhac}{ephemerides}
+
+\newpage
+%~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~%
+% Article ephemerides :
+\articleinc{Conseils d'observation en photométrie}{Daniel}{Verilhac}{conseils}
+
+
+%\newpage
+%---------------------------------------------------------------------------------%
+% Article sur les nouvelles au sujet de RR :
+\articleinc{Les dernières nouvelles de \rrlyr}{Thierry}{Garrel}{news}
+
+
+\newpage
+%---------------------------------------------------------------------------------%
+% Article pratique :
+\articleinc{Comment réaliser une time série spectrale sur \rrlyr ?}{Benjamin}{Mauclaire}{pratique}
+
+
+%---------------------------------------------------------------------------------%
+% Mot de la fin :
+
+  
+   \begin{figure*}[!ht]
+     \centering
+     \includegraphics[width=12cm,angle=-0]{t152_ohp_et_vega_lyr.jpg}
+     \caption{RR Lyrae en vue avec le T152 de l'OHP ! (photo Thierry Lemoult).}
+     \label{t152_ohp_et_vega_lyr.jpg}
+   \end{figure*}
+
+
+%*********************************************************************************%
+}
+\end{document}
