@@ -1,12 +1,12 @@
 ## Première section de votre article
 
-Texte...
+Texte... et un mot **important** à mon sens.
 
 Une liste de points à aborder :
 
 * premier point
-   - premier sous point
-   - second sous point
+    - premier sous point
+    - second sous point
 
 * deuxième point
 
