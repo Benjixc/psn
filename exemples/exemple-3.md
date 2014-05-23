@@ -36,7 +36,7 @@ And now some code:
     // Code is just text indented a bit
     which(is_easy) to_remember();
 
-~~~
+```Java
 
 // Markdown extra adds un-indented code blocks too
 
@@ -44,7 +44,7 @@ if (this_is_more_code == true && !indented) {
     // tild wrapped code blocks, also not indented
 }
 
-~~~
+```
 
 Text with  
 two trailing spaces  
