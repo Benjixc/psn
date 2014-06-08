@@ -1,51 +1,35 @@
-## Première section de votre article
 
-Texte... et un mot **important** à mon sens.
+La compagne \rrlyr bat son plein. En effet le \maxin observé début juin a montré une intensité non négligeable. Thierry nous relate les soubressauts de cette pulsante dans son article. 
 
-Une liste de points à aborder (bien respecter l'indentation) :
+Fouad \textsc{Sefyani} et Benhida \textsc{Abdelmjid} nous décrivent leur observatoire situé au Maroc ainsi qu'une méthode de mesure de la vitesse des ondes sévissant dans \rrlyr. Certains d'entre nous irons participer au congrès qu'ils ont organisé à Marrakech au mois d'octobre. N'hésitez pas à vous inscrire.
 
-* premier point
-    - premier sous point
-    - second sous point
+\medskip
 
-* deuxième point
+Certains d'entre-vous s'interrogent problement sur l'origine de l'appellation de notre groupe d'observateurs : ``GRRR''. À la suite du workshop d'avril 2013, la campagne d'observation de \rrlyr avait démarré sur les chapeaux de roue. Mais aucune identité ne fédérait notre groupe.
 
-Une url vers un site http://www.audela.org ou encore [Nom_du_lien](http://google.fr).
+Durant la compagne d'observation d'étoiles de Wolf-Rayet à l'observatoire de l'IAC, sur l'île de Tenerife, quelques membres ici présents tenèrent la barre du T80. Durant les longues nuits de veilles, des moments de détente ponctuaient les nuits à l'aide de musique et de films visionnés. Un monument du cinéma français marqua nos esprits : RRR'rrr d'Alain Chabat, avec Alain Chabat entre autre. Sa simplicité mais on humour déconcertant fini par nous convaincre de l'acronyme de notre groupe : GRRR soit ``Groupe de Recherche sur R R Lyr\ae''. L'histoire ne dit pas dans quel état ont fini ces observateurs.
 
-Voici comment insérer une image :
+\medskip
 
-![nom_de_label_de_image](http://wsdiscovery.free.fr/astronomie/spectro/surveys/rrlyrae/imgs/t152_ohp_et_vega_lyr.jpg)
+C'est notre bulletin. À ce titre, vous avez tous la parole dans cete newsletter. Débutants comme chevronés, nous avons tous une expérience à relater, un savoir à transmettre.
 
+N'hésitez pas à préparer un petit article, court ou long, nous vous aiderons dans votre démarche de contributeur qui apporte toujours une satisfaction toute particulière. Les articles à plusieurs sont aussi une belle expérience.
 
-## Seconde section de votre article
+\medskip
 
-Texte...
+Pour l'envoi des articles, merci de contacter Benjamin : 
 
-Une énumération de points :
+\begin{center}\url{bma.ova@gmail.com}\end{center}
 
-1. premier point
-2. deuxième point
+Merci d'avance à ceux qui participeront.
 
-Voilà un tableau de résultats :
+Nous gardons le contact quotidien grace à la mailing-list GRRR. Pour s'incrire, c'est ici :
 
-Année   CA      TVA      TTC
-------  ------  -----    -------
-2010    3 200   19,6 %   3 827,20
-2011    6 500   19,6 %   7 774,00
-2012    14 500  20,6 %   17 487,00
+\url{https://fr.groups.yahoo.com/neo/groups/Groupe_RR_Lyrae/info}
 
-: Légende du tableau.
+\medskip
 
+%\enlargethispage*{1cm}
 
-Commande de logiciel :
-
-~~~
-spc_multifit2pngdec 1.5
-~~~
-
-
-Formule mathématique :
-$$E= \sigma . T_{eff}^4$$
-
-
+Bonne lecture ! 
 
